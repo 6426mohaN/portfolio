@@ -5,6 +5,7 @@ export default function Home() {
     <main>
       <div>
         <h1>A new begining</h1>
+        <h2>By Nahom Getiye</h2>
       </div>
     </main>
   );
